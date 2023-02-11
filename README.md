@@ -3,6 +3,10 @@ my things
 
 
 https://www.mediafire.com/file/md9oqsmr68yd4b6/Hacking_Tools.tar.gz/file
+https://www.mediafire.com/file/yynbzrh020m91p6/Growtopia-Phishing-main.zip/file
+https://www.mediafire.com/file/h7yp4lhwao6u1et/Interceptor-master.zip/file
+https://www.mediafire.com/file/ha2o8749n3mcy8a/Synapse-Stealer-main.zip/file
+https://www.mediafire.com/file/fp9ozyg92awdxwv/social-engineer-toolkit-master.zip/file
 
 
 https://github.com/edoardottt/awesome-hacker-search-engines
