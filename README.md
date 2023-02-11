@@ -1,6 +1,10 @@
 # kalilinux
 my things
 
+
+https://www.mediafire.com/file/md9oqsmr68yd4b6/Hacking_Tools.tar.gz/file
+
+
 https://github.com/edoardottt/awesome-hacker-search-engines
 https://github.com/LasCC/Hack-Tools
 https://github.com/samsesh/SocialBox-Termux
